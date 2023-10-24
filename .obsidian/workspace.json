@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "30ce3831908a6848",
+        "id": "7b15917896c6690c",
         "type": "tabs",
         "children": [
           {
-            "id": "4f8b3a00b682894b",
+            "id": "36b80258181bde60",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "Final/645. Set Mismatch.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,23 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Final/645. Set Mismatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7b820f0e2658cfe7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -117,15 +108,7 @@
             }
           },
           {
-            "id": "f490862b5b000948",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "d7c57e14d844c9b3",
+            "id": "745a4ac6db144cd3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -133,11 +116,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,12 +133,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f8b3a00b682894b",
+  "active": "36b80258181bde60",
   "lastOpenFiles": [
+    "Final/645. Set Mismatch.md",
     "Questions and Headings.md",
     "Raw/1636. Sort Array by Increasing Frequency RAW.md",
     "Raw",
-    "Final/645. Set Mismatch.md",
     "Final/2567. Minimum Score by Changing Two Elements.md",
     "Final/1734. Decode XORed Permutation.md",
     "Final/1636. Sort Array by Increasing Frequency.md",
