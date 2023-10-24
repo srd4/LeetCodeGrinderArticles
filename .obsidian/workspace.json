@@ -156,8 +156,9 @@
   },
   "active": "36b80258181bde60",
   "lastOpenFiles": [
+    "static",
     "Questions and Headings.md",
-    "dpsolution_chatgpt_prompt.png",
+    "static/dpsolution_chatgpt_prompt.png",
     "path/to/image.png.md",
     "Final/2209. Minimum White Tiles After Covering With Carpets.md",
     "path/to",
