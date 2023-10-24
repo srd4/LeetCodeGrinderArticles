@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "fc780a33bc08195f",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ce3831908a6848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f8b3a00b682894b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/app.json",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b55e1731212a7c9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4305c899d32bc596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08492d6415450c9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ca24b322cf8bc2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af0cb044ee8dd4d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d365da9318e7bc89",
+    "type": "split",
+    "children": [
+      {
+        "id": "de58ca711aa45182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e4a694551e9825a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b820f0e2658cfe7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d057cacb2edf2b8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f490862b5b000948",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7c57e14d844c9b3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f8b3a00b682894b",
+  "lastOpenFiles": [
+    "Questions and Headings.md",
+    "Raw/1636. Sort Array by Increasing Frequency RAW.md",
+    "Raw",
+    "Final/645. Set Mismatch.md",
+    "Final/2567. Minimum Score by Changing Two Elements.md",
+    "Final/1734. Decode XORed Permutation.md",
+    "Final/1636. Sort Array by Increasing Frequency.md",
+    "Final"
+  ]
+}
