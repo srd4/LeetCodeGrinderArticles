@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final/2209. Minimum White Tiles After Covering With Carpets.md",
+                "file": "Questions and Headings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final/2209. Minimum White Tiles After Covering With Carpets.md",
+                "file": "Questions and Headings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final/2209. Minimum White Tiles After Covering With Carpets.md",
+                "file": "Questions and Headings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final/2209. Minimum White Tiles After Covering With Carpets.md"
+                "file": "Questions and Headings.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "36b80258181bde60",
   "lastOpenFiles": [
-    "Final/1734. Decode XORed Permutation.md",
+    "Raw/2209. Minimum White Tiles After Covering With Carpets.md",
     "Final/2209. Minimum White Tiles After Covering With Carpets.md",
+    "Final/1734. Decode XORed Permutation.md",
     "Final/2567. Minimum Score by Changing Two Elements.md",
     "Final/645. Set Mismatch.md",
     "Final/Static/chatgpt_prompt_dpsolution.png",
@@ -170,7 +171,6 @@
     "Pasted image 20231024154400.png",
     "Static/Pasted image 20231024153534.png",
     "Raw/1636. Sort Array by Increasing Frequency.md",
-    "Raw/2209. Minimum White Tiles After Covering With Carpets.md",
     "Final/Static",
     "Raw",
     "Final/1636. Sort Array by Increasing Frequency.md",
