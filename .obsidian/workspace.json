@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2550. Count Collisions of Monkeys on a Polygon.md",
+                "file": "Raw/1636. Sort Array by Increasing Frequency.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2550. Count Collisions of Monkeys on a Polygon.md",
+                "file": "Raw/1636. Sort Array by Increasing Frequency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2550. Count Collisions of Monkeys on a Polygon.md",
+                "file": "Raw/1636. Sort Array by Increasing Frequency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2550. Count Collisions of Monkeys on a Polygon.md"
+                "file": "Raw/1636. Sort Array by Increasing Frequency.md"
               }
             }
           }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,11 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cde4630365fabee",
+  "active": "08492d6415450c9a",
   "lastOpenFiles": [
-    "Questions and Headings.md",
-    "2550. Count Collisions of Monkeys on a Polygon.md",
+    "Drafts",
     "Raw/2209. Minimum White Tiles After Covering With Carpets.md",
+    "Raw/1636. Sort Array by Increasing Frequency.md",
+    "Questions and Headings.md",
+    "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
     "Final/Static/Pasted image 20231101103121.png",
     "Final/Static/Pasted image 20231101102850.png",
     "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
@@ -177,7 +178,6 @@
     "path",
     "Pasted image 20231024154400.png",
     "Static/Pasted image 20231024153534.png",
-    "Raw/1636. Sort Array by Increasing Frequency.md",
     "Final/Static",
     "Raw",
     "Final"
