@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raw/1636. Sort Array by Increasing Frequency.md",
+                "file": "876. Middle of the Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raw/1636. Sort Array by Increasing Frequency.md",
+                "file": "876. Middle of the Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raw/1636. Sort Array by Increasing Frequency.md",
+                "file": "876. Middle of the Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raw/1636. Sort Array by Increasing Frequency.md"
+                "file": "876. Middle of the Linked List.md"
               }
             }
           }
@@ -154,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08492d6415450c9a",
+  "active": "5cde4630365fabee",
   "lastOpenFiles": [
+    "Questions and Headings.md",
+    "876. Middle of the Linked List.md",
+    "Raw/1636. Sort Array by Increasing Frequency.md",
     "Drafts",
     "Raw/2209. Minimum White Tiles After Covering With Carpets.md",
-    "Raw/1636. Sort Array by Increasing Frequency.md",
-    "Questions and Headings.md",
     "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
     "Final/Static/Pasted image 20231101103121.png",
     "Final/Static/Pasted image 20231101102850.png",
