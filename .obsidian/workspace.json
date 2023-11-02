@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a143ab8d37de3c8",
+        "id": "85606c06dc1d2747",
         "type": "tabs",
         "children": [
           {
-            "id": "df9471b9c857df75",
+            "id": "5cde4630365fabee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
+                "file": "2550. Count Collisions of Monkeys on a Polygon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
+                "file": "2550. Count Collisions of Monkeys on a Polygon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
+                "file": "2550. Count Collisions of Monkeys on a Polygon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md"
+                "file": "2550. Count Collisions of Monkeys on a Polygon.md"
               }
             }
           }
@@ -155,21 +155,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df9471b9c857df75",
+  "active": "5cde4630365fabee",
   "lastOpenFiles": [
-    "Pasted image 20231101103121.png",
-    "Pasted image 20231101102850.png",
-    "Final/English/2209. Minimum White Tiles After Covering With Carpets.md",
+    "Raw/2209. Minimum White Tiles After Covering With Carpets.md",
+    "Final/Static/Pasted image 20231101103121.png",
+    "Final/Static/Pasted image 20231101102850.png",
+    "2550. Count Collisions of Monkeys on a Polygon.md",
     "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
+    "Final/English/2209. Minimum White Tiles After Covering With Carpets.md",
     "Final/Spanish",
     "Final/English",
-    "2550. Count Collisions of Monkeys on a Polygon.md",
     "Final/English/645. Set Mismatch.md",
     "Final/English/1636. Sort Array by Increasing Frequency.md",
     "Final/English/1734. Decode XORed Permutation.md",
     "Final/English/2567. Minimum Score by Changing Two Elements.md",
     "Questions and Headings.md",
-    "Raw/2209. Minimum White Tiles After Covering With Carpets.md",
     "Final/Static/chatgpt_prompt_dpsolution.png",
     "Final/Static",
     "path/to/image.png.md",
