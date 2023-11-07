@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "876. Middle of the Linked List.md",
+                "file": "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "right": {
     "id": "d365da9318e7bc89",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "876. Middle of the Linked List.md",
+                "file": "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "876. Middle of the Linked List.md",
+                "file": "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "876. Middle of the Linked List.md"
+                "file": "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md"
               }
             }
           }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +157,16 @@
   },
   "active": "5cde4630365fabee",
   "lastOpenFiles": [
-    "Questions and Headings.md",
+    "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
+    "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
+    "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
     "876. Middle of the Linked List.md",
+    "Questions and Headings.md",
     "Raw/1636. Sort Array by Increasing Frequency.md",
     "Drafts",
     "Raw/2209. Minimum White Tiles After Covering With Carpets.md",
-    "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
     "Final/Static/Pasted image 20231101103121.png",
     "Final/Static/Pasted image 20231101102850.png",
-    "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
     "Final/English/2209. Minimum White Tiles After Covering With Carpets.md",
     "Final/Spanish",
     "Final/English",
