@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
+                "file": "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
+                "file": "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
+                "file": "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md"
+                "file": "Final/English/2550. Count Collisions of Monkeys on a Polygon.md"
               }
             }
           }
@@ -157,9 +157,10 @@
   },
   "active": "5cde4630365fabee",
   "lastOpenFiles": [
-    "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
     "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
     "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
+    "Final/English/2567. Minimum Score by Changing Two Elements.md",
+    "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
     "876. Middle of the Linked List.md",
     "Questions and Headings.md",
     "Raw/1636. Sort Array by Increasing Frequency.md",
@@ -173,7 +174,6 @@
     "Final/English/645. Set Mismatch.md",
     "Final/English/1636. Sort Array by Increasing Frequency.md",
     "Final/English/1734. Decode XORed Permutation.md",
-    "Final/English/2567. Minimum Score by Changing Two Elements.md",
     "Final/Static/chatgpt_prompt_dpsolution.png",
     "Final/Static",
     "path/to/image.png.md",
