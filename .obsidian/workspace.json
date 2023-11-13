@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions and Headings.md",
+                "file": "Final/Spanish/876. Mitad de Una Lista Enlazada.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions and Headings.md",
+                "file": "Final/Spanish/876. Mitad de Una Lista Enlazada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions and Headings.md",
+                "file": "Final/Spanish/876. Mitad de Una Lista Enlazada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions and Headings.md"
+                "file": "Final/Spanish/876. Mitad de Una Lista Enlazada.md"
               }
             }
           }
@@ -158,9 +158,10 @@
   "active": "5cde4630365fabee",
   "lastOpenFiles": [
     "Final/English/876. Middle of the Linked List.md",
+    "Final/Spanish/876. Mitad de Una Lista Enlazada.md",
+    "Questions and Headings.md",
     "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
     "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
-    "Questions and Headings.md",
     "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
     "Final/English/2567. Minimum Score by Changing Two Elements.md",
     "Raw/1636. Sort Array by Increasing Frequency.md",
