@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final/English/876. Middle of the Linked List.md",
+                "file": "Questions and Headings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final/English/876. Middle of the Linked List.md",
+                "file": "Questions and Headings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final/English/876. Middle of the Linked List.md",
+                "file": "Questions and Headings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final/English/876. Middle of the Linked List.md"
+                "file": "Questions and Headings.md"
               }
             }
           }
@@ -155,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08492d6415450c9a",
+  "active": "5cde4630365fabee",
   "lastOpenFiles": [
+    "Final/English/876. Middle of the Linked List.md",
     "Final/Spanish/2209. Mínimo Número de Baldosas Blancas al Cubrir Un Piso Con Alfrombras.md",
     "Final/Spanish/2550. Contar Colisiones de Monos en Un Poligono.md",
-    "Final/English/876. Middle of the Linked List.md",
     "Questions and Headings.md",
     "Final/English/2550. Count Collisions of Monkeys on a Polygon.md",
     "Final/English/2567. Minimum Score by Changing Two Elements.md",

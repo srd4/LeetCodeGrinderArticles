@@ -11,7 +11,7 @@ How did interactions with ChatGPT assist in understanding or solving this proble
 ## Discoveries
 Did you have any insights or moments of realization while working on this problem?
 
-## Tricky parts
+## Tricky Parts
 Were there specific elements or constraints in the problem that seemed tricky or noteworthy?
 
 ## Solution
